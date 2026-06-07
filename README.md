@@ -4,11 +4,17 @@ Co-Founder of momnt | Duke Math Student
 
 Building technology that helps people take back control of their attention.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fangthebeast/momnt/main/rendered-product-pic.jpg" width="500">
+</p>
+
 ## Currently Building
 
 ### momnt
 
 momnt is a digital wellness platform that combines software and an NFC wearable to help users intentionally manage screen time.
+
+🔗 Repository: https://github.com/fangthebeast/momnt
 
 - 600 devices manufactured
 - 200+ users
