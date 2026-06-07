@@ -16,6 +16,8 @@ momnt is a digital wellness platform that combines software and an NFC wearable 
 - Duke Startup Showcase 3rd Place
 - DVG IGNITE Pitch Competition 4th Place
 
+getmomnt.com
+
 ## Interests
 
 - Human behavior & decision making
