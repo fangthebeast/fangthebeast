@@ -1,20 +1,20 @@
 # Sean Fang
 
-Founder of Momnt | Duke University
+Co-Founder of momnt | Duke Math Student
 
 Building technology that helps people take back control of their attention.
 
 ## Currently Building
 
-### Momnt
+### momnt
 
-Momnt is a digital wellness platform that combines software and an NFC wearable to help users intentionally manage screen time.
+momnt is a digital wellness platform that combines software and an NFC wearable to help users intentionally manage screen time.
 
 - 600 devices manufactured
 - 200+ users
-- $6,500+ revenue
+- $7,500+ revenue
 - Duke Startup Showcase 3rd Place
-- Duke Venture Group Ignite 4th Place
+- DVG IGNITE Pitch Competition 4th Place
 
 ## Interests
 
